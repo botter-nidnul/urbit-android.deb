@@ -26,9 +26,9 @@ jobs:
           arm64
         version: |
           buster
-      file: urbit.deb
-      file_target_version: buster
-      public_key: ${{ secrets.PUBLIC }}
-      private_key: ${{ secrets.PRIVATE }}
-      key_passphrase: ${{ secrets.SECRET }}
+        file: urbit.deb
+        file_target_version: buster
+        public_key: ${{ secrets.PUBLIC }}
+        private_key: ${{ secrets.PRIVATE }}
+        key_passphrase: ${{ secrets.SECRET }}
   
