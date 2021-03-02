@@ -26,7 +26,7 @@ jobs:
           arm64
         repo_supported_version: |
           buster
-        file: urbit.deb
+        file: /urbit.deb
         file_target_version: buster
         public_key: ${{ secrets.PUBLIC }}
         private_key: ${{ secrets.PRIVATE }}
