@@ -22,9 +22,9 @@ jobs:
     - uses: jrandiny/apt-repo-action@v2.0.1
       with:
         github_token: ${{ secrets.PAT }}
-        arch: |
+        repo_supported_arch: |
           arm64
-        version: |
+        repo_supported_version: |
           buster
         file: urbit.deb
         file_target_version: buster
