@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+setcap 'cap_net_bind_service=+ep' /usr/bin/urbit
+setcap 'cap_net_bind_service=+ep' /usr/bin/urbit-king
+
