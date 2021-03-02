@@ -19,7 +19,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Runs a single command using the runners shell
-      uses: jrandiny/apt-repo-action@v2.0.1
+    - uses: jrandiny/apt-repo-action@v2.0.1
       with:
         github_token: ${{ secrets.PAT }}
         arch: |
