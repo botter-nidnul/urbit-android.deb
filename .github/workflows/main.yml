@@ -15,7 +15,7 @@ with:
   version: |
     buster
   file: urbit.deb
-  file_target_version: bionic
+  file_target_version: buster
   public_key: ${{ secrets.PUBLIC }}
   private_key: ${{ secrets.PRIVATE }}
   key_passphrase: ${{ secrets.SECRET }}
