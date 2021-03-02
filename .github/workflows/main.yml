@@ -1,0 +1,30 @@
+- name: Update APT repo
+  # You may pin to the exact commit or the version.
+  # uses: arkane-systems/apt-repo-update@5b3101e085582ec9cdbfca46138132b52ae70357
+  uses: arkane-systems/apt-repo-update@v1.1
+  with:
+    # Print debug log
+    debug: # optional
+    # GitHub token with commit and push scope.
+    github_token: 
+    # Newline-delimited list of supported architectures.
+    repo_supported_arch: 
+    # Newline-delimited list of supported distributions.
+    repo_supported_distro: 
+    # Location of APT repo folder relative to git repo root.
+    repo_directory: # optional, default is apt
+    # Directory in which updated packages are placed.
+    update_directory: # optional, default is updates
+    # GPG private key for signing apt repo
+    private_key: 
+    # Passphrase of GPG private key
+    key_passphrase: 
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
