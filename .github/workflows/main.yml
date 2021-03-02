@@ -14,7 +14,7 @@ with:
     arm64
   version: |
     buster
-  file: my_program_bionic.deb
+  file: urbit.deb
   file_target_version: bionic
   public_key: ${{ secrets.PUBLIC }}
   private_key: ${{ secrets.PRIVATE }}
