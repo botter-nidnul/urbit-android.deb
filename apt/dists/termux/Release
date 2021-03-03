@@ -1,19 +1,19 @@
 Origin: botter-nidnul.github.io/urbit-android.deb
 Label: botter-nidnul.github.io/urbit-android.deb
 Codename: termux
-Date: Wed, 03 Mar 2021 13:09:08 UTC
+Date: Wed, 03 Mar 2021 14:44:18 UTC
 Architectures: aarch64
 Components: custom
 Description: urbit for termux repository
 MD5Sum:
- 21e5f35e05343547798e7a99e679d93e 493 custom/binary-aarch64/Packages
- 9c0585748ee2e1f0541e65dd675ff0c2 374 custom/binary-aarch64/Packages.gz
+ a8807b7ac73fe88be435f8f95c4da121 493 custom/binary-aarch64/Packages
+ ad206d45cea28214df2ca2f2784d013f 373 custom/binary-aarch64/Packages.gz
  7f82b372ab454884586f3c55bfb2f2c4 180 custom/binary-aarch64/Release
 SHA1:
- 4e141f918fbccaec70eda63be3746b5ed3227697 493 custom/binary-aarch64/Packages
- 3e175dec89c17bbc2f45493285400c45de56ea83 374 custom/binary-aarch64/Packages.gz
+ 29808d8d0fa00ececa957449d428a5d7799115b4 493 custom/binary-aarch64/Packages
+ 36fc1a5c46d600504e2df5d73c86cb60f179d867 373 custom/binary-aarch64/Packages.gz
  da054541c04adf825c76bcbbb84ca5186a186fa2 180 custom/binary-aarch64/Release
 SHA256:
- 4ec7f9e0e76b88f25120b3f6a2aa11964101fd5868ff83f380735adef2164b78 493 custom/binary-aarch64/Packages
- 58d34395589bd0805b83cff8848c941a4b5112dd6790f91dda7c3b3c4ef05e2a 374 custom/binary-aarch64/Packages.gz
+ 204daeacf0cc74c92555c1d8c41f09ba13269c4479f3a3298eb021d2c9ab324e 493 custom/binary-aarch64/Packages
+ 9c4cd0d29ed90d0d420361a386085abd5e28ddbf807fbbb1a214b52f263180dd 373 custom/binary-aarch64/Packages.gz
  6227ed511e09860955501b06261b4dfb85c434822bd55ea6eb307e4063dfa967 180 custom/binary-aarch64/Release
