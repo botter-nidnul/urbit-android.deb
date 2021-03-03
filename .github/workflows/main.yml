@@ -1,10 +1,10 @@
-name: Github pages APT repo
+name: Publish new packages.
 
 # Controls when the action will run.
 on:
   # Triggers the workflow on push events but only for the master branch
-  #push:
-  #  branches: [ master ]
+  push:
+    branches: [ master ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -19,16 +19,13 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Runs a single command using the runners shell
-    - uses: jrandiny/apt-repo-action@v2.0.1
-      with:
-        github_token: ${{ secrets.PAT }}
-        repo_supported_arch: |
-          arm64
-        repo_supported_version: |
-          buster
-        file: /urbit.deb
-        file_target_version: buster
-        public_key: ${{ secrets.PUBLIC }}
-        private_key: ${{ secrets.PRIVATE }}
-        key_passphrase: ${{ secrets.SECRET }}
-  
+      - uses: arkane-systems/apt-repo-update@v1.1
+        with:
+          debug: false
+          github_token: ${{ secrets.PAT }}
+          repo_supported_arch: |
+            arm64
+          repo_supported_distro: |
+            buster
+          private_key: ${{ secrets.PRIVATE }}
+          key_passphrase: ${{ secrets.SECRET }}
