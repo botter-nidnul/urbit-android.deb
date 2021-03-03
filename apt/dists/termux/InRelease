@@ -4,33 +4,33 @@ Hash: SHA512
 Origin: botter-nidnul.github.io/urbit-android.deb
 Label: botter-nidnul.github.io/urbit-android.deb
 Codename: termux
-Date: Wed, 03 Mar 2021 13:27:19 UTC
+Date: Wed, 03 Mar 2021 13:35:21 UTC
 Architectures: aarch64
 Components: custom
 Description: urbit for termux repository
 MD5Sum:
- 21e5f35e05343547798e7a99e679d93e 493 custom/binary-aarch64/Packages
- 9c0585748ee2e1f0541e65dd675ff0c2 374 custom/binary-aarch64/Packages.gz
+ 545ab8bb762a4c5445e2c7b101416f10 493 custom/binary-aarch64/Packages
+ 4833fb0a8a31d39fcdcfe8b8df8a3b9f 373 custom/binary-aarch64/Packages.gz
  7f82b372ab454884586f3c55bfb2f2c4 180 custom/binary-aarch64/Release
 SHA1:
- 4e141f918fbccaec70eda63be3746b5ed3227697 493 custom/binary-aarch64/Packages
- 3e175dec89c17bbc2f45493285400c45de56ea83 374 custom/binary-aarch64/Packages.gz
+ ea79392d7610844f87f6f0e61feca96983548320 493 custom/binary-aarch64/Packages
+ 489c58b2da734e5e17335c13ecbf6bd5e7957f74 373 custom/binary-aarch64/Packages.gz
  da054541c04adf825c76bcbbb84ca5186a186fa2 180 custom/binary-aarch64/Release
 SHA256:
- 4ec7f9e0e76b88f25120b3f6a2aa11964101fd5868ff83f380735adef2164b78 493 custom/binary-aarch64/Packages
- 58d34395589bd0805b83cff8848c941a4b5112dd6790f91dda7c3b3c4ef05e2a 374 custom/binary-aarch64/Packages.gz
+ 005673d11e15cbaec0cc0ddafc854e24acb62cf398ff6917add7225c1ce23035 493 custom/binary-aarch64/Packages
+ c1d99eb6b0f8f8faf422305bd71672a16ba9dda40150542f7453cef738d1daf6 373 custom/binary-aarch64/Packages.gz
  6227ed511e09860955501b06261b4dfb85c434822bd55ea6eb307e4063dfa967 180 custom/binary-aarch64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEw6ezQiieXVVyqTTs8oU2zX5Vc88FAmA/jrcACgkQ8oU2zX5V
-c8+fmAv/QhHjhhM8djU0yPcHs4i5Tjr1879ePT3HQGnykdGliamulIdwR58hUKCy
-eBuCk6UMnTRfhOexfR6FAjxiT++Ap+zgPX1y85fWvQJVHBG2Gdruky3u50t+tMQg
-0U4bCQFCmJ3bCTRoQ0LxbaFsRceMPh9wgtMi8+N2EMiNSdSfO6tplCBHg3Jc8TAD
-BC9KR8kdu2LHUwWeOlZAWI/kt9a6UeaULlBT1D3e4aDLM7G94k/lKAz9J/1XsYT2
-cRQ16pGTyZbQ2vmziblbfh6qb0JGVT1zz66BadCNGJITjdB5rEURKzl0sNgLYkC2
-M6SPWQDa2+IiH7mrS8dPwb1T5ZH7rgIRm3kBHsfPoan/pH9rWO1TvwMOX6othHFJ
-gVgF/kLEQr+lYK5eyBu3wDlXPCB0nxC+IGrfHWFra8THWmgl8oEQ1oqIET+ZH+8Q
-h9JB6v+wwnk04eNK8NW8V9nBDbSNFt90pQnmVnyYs53Tza+Pm1cbcHLd8mJuT3HR
-1PkfGsPT
-=VY0f
+iQGzBAEBCgAdFiEEw6ezQiieXVVyqTTs8oU2zX5Vc88FAmA/kJkACgkQ8oU2zX5V
+c8+yNQv+OijBJgpWWYUuDldMuFM2DE8IVq+uZ4qm/RB61nD9KXve3X2LwPruyc3f
+jS7IzrVJTGD9TxIRb2+jDyq3a4eCny71fMukeDSzQab0+MOR0kxmxvdujdb9yuzU
+e7b7tq1gIGy4Judu2NULZRarAVjYIPgb66bc56tHwEmlNEQH3G1eUDRlInLk4HVs
+WbzX8RUa9raH7LN8GX0mYFn6nt1isNa/FR0G0FrwbW9VR20Hm/6kdFzqDHY4g9lH
+HaCRDkuM1UjGjltwzWaDnvPYKZKdbDdG9c7kRFX9r80ZyovFEEc1aPZxxhF3UWei
+NzOT7uaHaa92kg2/i5SYlzORUnKKYY47sNXicR5vY9U0BcK/aoPxL3Cq5hdmLjdG
+6XhSHEWCHSC6Pgvn0y4o+ZSbwG16L4M4qfjvMagPJSkr3BgCZB/VeET5oVz/o3K/
+yJfac604vZYvuMXHX9toJKmCJ0OZHjgJCDDTdXYc2HSeWwIFUqXAkWjbDANvhnc6
+2dDMGngI
+=oQpf
 -----END PGP SIGNATURE-----
