@@ -24,8 +24,8 @@ jobs:
           debug: false
           github_token: ${{ secrets.PAT }}
           repo_supported_arch: |
-            arm64
+            aarch64
           repo_supported_distro: |
-            buster
+            termux
           private_key: ${{ secrets.PRIVATE }}
           key_passphrase: ${{ secrets.SECRET }}
