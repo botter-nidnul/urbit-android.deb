@@ -1,7 +1,7 @@
 Origin: botter-nidnul.github.io/urbit-android.deb
 Label: botter-nidnul.github.io/urbit-android.deb
-Codename: buster
-Architectures: arm64
+Codename: termux
+Architectures: aarch64
 Components: custom
 Description: urbit for termux repository
 SignWith: C3A7B342289E5D5572A934ECF28536CD7E5573CF

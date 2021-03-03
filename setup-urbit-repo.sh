@@ -6,7 +6,7 @@ apt-get --assume-yes install coreutils gnupg
 # Make the sources.list.d directory
 mkdir -p $PREFIX/etc/apt/sources.list.d
 # Write the needed source file
-echo "deb https://botter-nidnul.github.io/urbit-android.deb/apt buster custom" > $PREFIX/etc/apt/sources.list.d/pointless.list
+echo "deb https://botter-nidnul.github.io/urbit-android.deb/apt termux custom" > $PREFIX/etc/apt/sources.list.d/urbit-android.list
 # Add signing key from https://its-pointless.github.io/pointless.gpg
 if [ -n $(command -v curl) ]; then
 curl -sL https://botter-nidnul.github.io/urbit-android.deb/public.gpg | apt-key add -

@@ -2,7 +2,7 @@ Package: urbit
 Version: 1.2
 Section: custom
 Priority: optional
-Architecture: arm64
+Architecture: aarch64
 Essential: no
 Depends: resolv-conf, proot
 Installed-Size: 91484
