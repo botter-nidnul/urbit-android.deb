@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: botter-nidnul.github.io/urbit-android.deb
 Label: botter-nidnul.github.io/urbit-android.deb
 Codename: termux
-Date: Wed, 03 Mar 2021 13:09:08 UTC
+Date: Wed, 03 Mar 2021 13:27:19 UTC
 Architectures: aarch64
 Components: custom
 Description: urbit for termux repository
@@ -22,15 +22,15 @@ SHA256:
  6227ed511e09860955501b06261b4dfb85c434822bd55ea6eb307e4063dfa967 180 custom/binary-aarch64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEw6ezQiieXVVyqTTs8oU2zX5Vc88FAmA/io4ACgkQ8oU2zX5V
-c8/rCAv/Q3unUXJHRAq6tSdV47HvU7VU5FqnzReTZQfidqq2Fn1OjWrHtthYRZhg
-SuurIK+tQ0qhi0jXpwA1DO5xEMygRFhJNjomnmKrST6Gxcxt3DlIa/oKY03rQ6zf
-gLU4ySZErUkiMmfDd+ngKK7twnHjF4QOyrd7Vr20emYX25censXd8ysn6eHdQBHD
-qHrKjcAsL/8nHk4fdRSF1POjoAQAf+H1soL3U8O3Yn3KEMN7XJpZ9H3jVPV5CNgj
-KvMVcg2rSEG0pOVRtfvXrSpLdSyPPwoNckzmBHBzK9rZ89ogdkCCdU3ll9vck9yD
-YVUHxB/e4TikRlJ44uFhd6M6RkUkesriu3eFhppyVQhIjxstH1CaQQU2n5aH4myP
-4H9+X1+fcery9EWjhfIpeGCCGmHSn+DBtV7DXEKc9SgogRNXAvPy8tk0ILmLJ18A
-FNV45fgiIVA5SftUABsxWAnUqyXvDiEpQkDA2CPiOoxEXzN0ZJTO0hQo8VlGoiNn
-O8Meyevp
-=tvLI
+iQGzBAEBCgAdFiEEw6ezQiieXVVyqTTs8oU2zX5Vc88FAmA/jrcACgkQ8oU2zX5V
+c8+fmAv/QhHjhhM8djU0yPcHs4i5Tjr1879ePT3HQGnykdGliamulIdwR58hUKCy
+eBuCk6UMnTRfhOexfR6FAjxiT++Ap+zgPX1y85fWvQJVHBG2Gdruky3u50t+tMQg
+0U4bCQFCmJ3bCTRoQ0LxbaFsRceMPh9wgtMi8+N2EMiNSdSfO6tplCBHg3Jc8TAD
+BC9KR8kdu2LHUwWeOlZAWI/kt9a6UeaULlBT1D3e4aDLM7G94k/lKAz9J/1XsYT2
+cRQ16pGTyZbQ2vmziblbfh6qb0JGVT1zz66BadCNGJITjdB5rEURKzl0sNgLYkC2
+M6SPWQDa2+IiH7mrS8dPwb1T5ZH7rgIRm3kBHsfPoan/pH9rWO1TvwMOX6othHFJ
+gVgF/kLEQr+lYK5eyBu3wDlXPCB0nxC+IGrfHWFra8THWmgl8oEQ1oqIET+ZH+8Q
+h9JB6v+wwnk04eNK8NW8V9nBDbSNFt90pQnmVnyYs53Tza+Pm1cbcHLd8mJuT3HR
+1PkfGsPT
+=VY0f
 -----END PGP SIGNATURE-----
