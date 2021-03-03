@@ -1,0 +1,5 @@
+Component: custom
+Origin: botter-nidnul.github.io/urbit-android.deb
+Label: botter-nidnul.github.io/urbit-android.deb
+Architecture: arm64
+Description: urbit for termux repository

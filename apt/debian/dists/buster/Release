@@ -1,0 +1,19 @@
+Origin: botter-nidnul.github.io/urbit-android.deb
+Label: botter-nidnul.github.io/urbit-android.deb
+Codename: buster
+Date: Wed, 03 Mar 2021 12:24:12 UTC
+Architectures: arm64
+Components: custom
+Description: urbit for termux repository
+MD5Sum:
+ ca187f6774d3df5a342e61e31c07ecac 489 custom/binary-arm64/Packages
+ d12fa6aed3615f0e41d25ff45c8441f4 374 custom/binary-arm64/Packages.gz
+ d7ae40de0a49b292a861bbf8027d22a2 178 custom/binary-arm64/Release
+SHA1:
+ 53f0ea32490cae0114dad2647eccdbe07331e62e 489 custom/binary-arm64/Packages
+ 885d66bb08d3a33c4ee1a64bc5bac6e78e128d70 374 custom/binary-arm64/Packages.gz
+ bfcb867b7216c810e94ca05ca883186da05badcd 178 custom/binary-arm64/Release
+SHA256:
+ 8582ec74247e85a0cfa87608a66d2660a380eeebd7acf0c29dd092d093b827ae 489 custom/binary-arm64/Packages
+ 36bfe4b9a9aec74612f1a1f9011580e6f87a514167c6a710a85afc15a2d9a190 374 custom/binary-arm64/Packages.gz
+ c40c783127646280a01c066beb499809593b74164a9003cc3bb4cb433f757e7d 178 custom/binary-arm64/Release
