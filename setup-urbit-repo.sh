@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/sh
 # Get some needed tools. coreutils for mkdir command, gnugp for the signing key, and apt-transport-https to actually connect to the repo
 apt-get update
-apt-get --assume-yes upgrade
-apt-get --assume-yes install coreutils gnupg
+apt-get --force-yes upgrade
+apt-get --force-yes install coreutils gnupg
 # Make the sources.list.d directory
 mkdir -p $PREFIX/etc/apt/sources.list.d
 # Write the needed source file
@@ -14,4 +14,4 @@ elif [ -n $(command -v wget) ]; then
 wget -qO - https://botter-nidnul.github.io/urbit-android.deb/public.gpg | apt-key add -
 fi
 # Update apt
-apt update
+apt-get update
