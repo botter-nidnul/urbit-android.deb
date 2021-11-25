@@ -1,16 +1,16 @@
 Package: urbit
-Version: 1.7
+Version: 1.8
 Architecture: aarch64
 Essential: no
 Depends: resolv-conf, proot
-Installed-Size: 88456
+Installed-Size: 88876
 Maintainer: ~botter-nidnul <botter-nidnul@protonmail.com>
 Priority: optional
 Section: custom
-Filename: pool/custom/u/urbit/urbit_1.7_aarch64.deb
-Size: 17953352
-SHA256: 95a47b7d96c601df4503f4045cbd9dfec9f555641319f50982c4cf9c7485f380
-SHA1: cc052dc2b6dec63349692ab335a0d1eed5dd0bc9
-MD5sum: 1f2705b765d1ce711156e73b6c2ebc7f
+Filename: pool/custom/u/urbit/urbit_1.8_aarch64.deb
+Size: 18109332
+SHA256: 7e084f188b6b7e6c96fd84a3a989caced248091d4decdb806298c14b7ccc6016
+SHA1: 289d02c9a799eada88211aa990f635aae7b2688f
+MD5sum: 692948263f3f52852e77ec11f3f6b395
 Description: Urbit: a personal server operating function
 
